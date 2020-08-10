@@ -53,9 +53,9 @@ for xUbuntu 16.04-18.04-19.10-20.04 / Linux Mint 18.x-19.x-20.x
 
 You need to establish temporary internet by other means(ethernet) for this. Also, you need to have disabled Secure Boot in the BIOS of your computer.
 
-sudo apt install inxi
+`sudo apt install inxi`
 
-inxi -Fxz //paste in terminal
+`inxi -Fxz`  //paste in terminal
 
 
 You can purge packages with following commands
